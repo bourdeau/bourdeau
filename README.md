@@ -10,3 +10,11 @@ I am a **Web Developper** and I love 💻 & 🐈‍⬛
 
 
 
+[![SkillIcons](https://skillicons.dev/icons?i=py,rust,fastapi,docker,neovim,php,ts,angular,gcp,linux,bash)](https://skillicons.dev)<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=bourdeau&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourdeau&layout=compact&langs_count=10&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d&hide=jupyter%20notebook,html" />
+</a>
