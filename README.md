@@ -9,7 +9,7 @@ I am a **Web Developper** and I love 💻 & 🐈‍⬛
 
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,rust,fastapi,docker,neovim,php,ts,angular,gcp,linux,bash)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=nix,neovim,rust,py,fastapi,docker,php,ts,angular,gcp,linux,bash)](https://skillicons.dev)<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=bourdeau&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
