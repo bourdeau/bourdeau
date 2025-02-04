@@ -1,6 +1,6 @@
 ### Hi there, I'm Pierre-Henri 👋
 
-I am a **Web Developper** and I love 💻 & 🐈‍⬛
+I am a **Software Engineer** and I love 💻 & 🐈‍⬛
 
 - 🔭 I’m currently working on [Staysail](https://github.com/staysail-io), a personnal project around a sailing community
 - 🌱 I’m currently learning **Rust**, **Go** an everything I can
