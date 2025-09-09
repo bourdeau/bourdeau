@@ -7,9 +7,7 @@ I am a **Software Engineer** and I love 💻 & 🐈‍⬛
 - 📫 How to reach me: here or on [Linkedin](https://www.linkedin.com/in/pierre-henri-bourdeau/)
 - ⚡ Fun fact: I sailed for a year on my sailing boat ⛵
 
-
-
-[![SkillIcons](https://skillicons.dev/icons?i=nix,neovim,rust,py,fastapi,docker,php,ts,angular,gcp,linux,bash)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=rust,nix,neovim,linux,py,fastapi,docker,gcp,aws,php,ts,angular)](https://skillicons.dev)<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=bourdeau&theme=transparent&count_private=true&hide_border=false&border_color=30363&hide_rank=true" />
