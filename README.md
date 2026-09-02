@@ -7,5 +7,5 @@ I am a **Software Engineer** and I love 💻 & 🐈‍⬛
 - 📫 How to reach me: here or on [Linkedin](https://www.linkedin.com/in/pierre-henri-bourdeau/)
 - ⚡ Fun fact: I sailed for a year on my sailing boat ⛵
 
-[![SkillIcons](https://skillicons.dev/icons?i=rust,nix,neovim,linux,py,fastapi,docker,gcp,aws,php,ts,angular)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=rust,nix,neovim,linux,py,fastapi,docker,gcp,aws,php)](https://skillicons.dev)<br/>
 
